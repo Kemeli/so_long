@@ -1,7 +1,7 @@
 # so_long
 "and thanks for all the fish"
 
-This project is about creating a 2d game in C language, using a 42 library: mlx
+This project is about creating a 2d game in C language, using a 42 library, mlx, and my the previously coded libft and ft_printf
 
 ![image](https://user-images.githubusercontent.com/98065645/210613231-c0ca1e5d-d8de-403b-ac46-35121f562194.png)
 
