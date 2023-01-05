@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/01 20:00:30 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/08 21:20:49 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:01:53 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 int	print_error(char *error_message, t_game *game)
 {

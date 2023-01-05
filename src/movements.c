@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/20 17:27:01 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/08 00:50:48 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:10 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	init_position(t_game *game)
 {

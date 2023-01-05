@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 20:49:44 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/08 21:30:19 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:06 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	extension_map(t_game *game)
 {

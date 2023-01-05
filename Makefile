@@ -6,21 +6,21 @@
 #    By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/02 15:41:47 by kdaiane-          #+#    #+#              #
-#    Updated: 2022/11/07 19:32:56 by kdaiane-         ###   ########.fr        #
+#    Updated: 2023/01/05 01:01:07 by kdaiane-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-SRC = 		so_long.c \
-			inicialize_values.c \
-			map_validation.c \
-			valid_path.c \
-			grid.c \
-			inicialize_mlx.c \
-			render.c \
-			sprites.c \
-			movements.c \
-			handle_error.c \
-			end_game.c
+SRC = 		src/so_long.c \
+			src/inicialize_values.c \
+			src/map_validation.c \
+			src/valid_path.c \
+			src/grid.c \
+			src/inicialize_mlx.c \
+			src/render.c \
+			src/sprites.c \
+			src/movements.c \
+			src/handle_error.c \
+			src/end_game.c
 
 NAME =		so_long
 FLAGS =		-Wall -Wextra -Werror

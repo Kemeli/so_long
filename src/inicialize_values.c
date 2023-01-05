@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 03:12:05 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/05 20:51:44 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:00 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	inicialize_values(t_game *game, char *map_path)
 {

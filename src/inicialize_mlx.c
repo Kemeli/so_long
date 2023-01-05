@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/15 04:21:17 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/07 19:39:54 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:01:56 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	initialize_mlx(t_game *game)
 {

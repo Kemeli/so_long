@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/13 23:43:32 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/07 19:43:44 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:25 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 static int	is_safe(int r, int c, t_game *game)
 {

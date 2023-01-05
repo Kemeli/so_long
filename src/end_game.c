@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/25 22:37:22 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/05 21:18:26 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:01:38 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	ft_free_ptr(void **ptr)
 {

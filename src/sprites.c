@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 22:03:55 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/07 19:35:14 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:21 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 static void	*get_sprites(char *spr_path, t_game *game)
 {

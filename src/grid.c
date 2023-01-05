@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 19:28:29 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/07 18:59:01 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:01:49 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	grid(t_game	*game)
 {	

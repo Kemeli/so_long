@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/02 20:58:08 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/08 21:06:47 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:18 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 int	main(int argc, char **argv)
 {

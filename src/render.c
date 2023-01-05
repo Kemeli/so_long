@@ -6,11 +6,11 @@
 /*   By: kdaiane- < kdaiane-@student.42sp.org.br    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/07 19:32:13 by kdaiane-          #+#    #+#             */
-/*   Updated: 2022/11/07 19:40:43 by kdaiane-         ###   ########.fr       */
+/*   Updated: 2023/01/05 01:02:14 by kdaiane-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../so_long.h"
 
 void	img_to_win(t_game *game, void *img, int height, int width)
 {
