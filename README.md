@@ -5,7 +5,7 @@ This project is about creating a 2d game in C language for 42 school
 
 For this purpose I was able to use:
 
-a 42(school) graphic library called mlx, and my previously coded libraries: libft and ft_printf
+a 42(school) graphic library called MiniLibX, and my previously coded: libft and ft_printf
 
 ![image](https://user-images.githubusercontent.com/98065645/210613231-c0ca1e5d-d8de-403b-ac46-35121f562194.png)
 
